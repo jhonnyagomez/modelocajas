@@ -11,19 +11,18 @@
 
 .wrapper {
     background-color: blue;
+    flex-direction: row;
+    /*flex-direction: row-reverse;*/
+    display: flex;
 }
 .menu {
     background-color: green;
     width: 30%;
-    height: 50px;
-    float: left;
 }
 .content {
     background-color: aqua;
     width: 70%;
-    float: left;
 }
 .footer {
     background-color: gray;
-    clear: both;
 }
