@@ -1,12 +1,11 @@
 .container {
     background-color: orange;
-    max-width: 1200px;
+    max-width: 800px;
     margin: 0 auto;
     display: grid;
     grid-template-areas:
      'header header header'
-     'menu menu menu'
-     'content content content'
+     'menu content content'
      'footer footer footer'
      ;
 }
