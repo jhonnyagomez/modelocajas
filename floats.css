@@ -1,0 +1,29 @@
+.container {
+    background-color: orange;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: purple;
+    height: 60px;
+}
+
+.wrapper {
+    background-color: blue;
+}
+.menu {
+    background-color: green;
+    width: 30%;
+    height: 50px;
+    float: left;
+}
+.content {
+    background-color: aqua;
+    width: 70%;
+    float: left;
+}
+.footer {
+    background-color: gray;
+    clear: both;
+}
